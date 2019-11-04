@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
 <br>
-This is a starting angular project based off of [Maximillian Schwarzmuller's Angular course](https://www.udemy.com/course/the-complete-guide-to-angular-2/). The project mostly follows his videos regarding the recipe app.
+This is a starting angular project based off of [Maximillian Schwarzmuller's Angular course](https://www.udemy.com/course/the-complete-guide-to-angular-2/). The project mostly follows his videos regarding the recipe app and uses VS code for the ide.
 
 ## Project Setup
 
